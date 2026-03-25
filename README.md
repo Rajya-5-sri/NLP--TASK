@@ -1,1 +1,1 @@
-# NLP--TASK
+Jupyter Notebook pipeline covering text preprocessing (stopword removal, punctuation cleaning, stemming, lemmatization), feature engineering (Bag of Words, TF‑IDF), and Word2Vec embeddings with word similarity checks on 200+ word custom text using Python and NLP libraries
